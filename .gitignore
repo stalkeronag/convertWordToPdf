@@ -1,6 +1,7 @@
-packages/
-/WindowsFormsApp1/WindowsFormsApp1/bin/Debug/
+**/packages/
 *.dll
 *.exe
-WindowsFormsApp1/WindowsFormsApp1_TemporaryKey
-WindowsFormsApp1/WindowsFormsApp1/obj/Debug/
+**/.vs/
+**/WindowsFormsApp1/bin/
+**/WindowsFormsApp1/obj/
+**/WindowsFormsApp1/WindowsFormsApp1_TemporaryKey
