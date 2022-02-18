@@ -1,7 +1,7 @@
-**packages/
+**/packages/
 *.dll
 *.exe
-**.vs/
-**WindowsFormsApp1/bin/
-**WindowsFormsApp1/obj/
-**WindowsFormsApp1/WindowsFormsApp1_TemporaryKey
+**/.vs\
+**/WindowsFormsApp1/bin
+**/WindowsFormsApp1/obj/
+**/WindowsFormsApp1/WindowsFormsApp1_TemporaryKey
