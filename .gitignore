@@ -2,7 +2,7 @@
 *.dll
 *.exe
 **/.vs/
-**/WindowsFormsApp1/bin
+**/WindowsFormsApp1/bin/
 **/WindowsFormsApp1/obj/
-**/WindowsFormsApp1/WindowsFormsApp1_TemporaryKey
+**/WindowsFormsApp1/Key.pfx
 **/WindowsFormsApp1.sln
